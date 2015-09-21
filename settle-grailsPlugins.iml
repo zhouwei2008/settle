@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/datasources-0.5">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/datasources-0.5/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/datasources-0.5/src/groovy" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/datasources-0.5/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/datasources-0.5/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/datasources-0.5/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/grails-template-engine-0.2">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/grails-template-engine-0.2/grails-app/services" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/grails-template-engine-0.2/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/grails-template-engine-0.2/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/grails-template-engine-0.2/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/hibernate-1.3.7">
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/hibernate-1.3.7/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/hibernate-1.3.7/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/hibernate-1.3.7/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/jms-1.2">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/jms-1.2/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/jms-1.2/grails-app/utils" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/jms-1.2/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/jms-1.2/grails-app/services" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/jms-1.2/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/jms-1.2/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/jms-1.2/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/quartz-0.4.2">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/quartz-0.4.2/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/quartz-0.4.2/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/quartz-0.4.2/grails-app/services" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/quartz-0.4.2/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/quartz-0.4.2/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/quartz-0.4.2/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/rest-0.6.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/rest-0.6.1/src/groovy" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/rest-0.6.1/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/rest-0.6.1/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/rest-0.6.1/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/tomcat-1.3.7">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/tomcat-1.3.7/src/groovy" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/tomcat-1.3.7/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/tomcat-1.3.7/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/tomcat-1.3.7/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/grails-template-engine-0.2">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.7/projects/BOSS/plugins/grails-template-engine-0.2/grails-app/services" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/BOSS/plugins/grails-template-engine-0.2/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/BOSS/plugins/grails-template-engine-0.2/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.7/projects/BOSS/plugins/grails-template-engine-0.2/web-app/plugins" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library">
+        <CLASSES>
+          <root url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/tomcat-1.3.7/lib" />
+          <root url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/quartz-0.4.2/lib" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.activemq/activemq-all/jars/activemq-all-5.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/quartz-0.4.2/lib" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/.grails/1.3.7/projects/settle/plugins/tomcat-1.3.7/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="grails-1.3.7" level="application" />
+  </component>
+</module>
+
